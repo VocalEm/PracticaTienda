@@ -252,3 +252,4 @@ e:\Practica MVC\PracticaTienda\obj\Debug\net8.0\refint\PracticaTienda.dll
 e:\Practica MVC\PracticaTienda\obj\Debug\net8.0\PracticaTienda.pdb
 e:\Practica MVC\PracticaTienda\obj\Debug\net8.0\PracticaTienda.genruntimeconfig.cache
 e:\Practica MVC\PracticaTienda\obj\Debug\net8.0\ref\PracticaTienda.dll
+E:\Practica MVC\PracticaTienda\obj\Debug\net8.0\PracticaTienda.sourcelink.json
