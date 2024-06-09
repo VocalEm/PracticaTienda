@@ -17,179 +17,179 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PracticaTienda
 build_property.RootNamespace = PracticaTienda
-build_property.ProjectDir = E:\Practica MVC\PracticaTienda\
+build_property.ProjectDir = C:\Practicas\PracticaTienda\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Practica MVC\PracticaTienda
+build_property.MSBuildProjectDirectory = C:\Practicas\PracticaTienda
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Practica MVC/PracticaTienda/Views/Categorias/Create.cshtml]
+[C:/Practicas/PracticaTienda/Views/Categorias/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Categorias/Delete.cshtml]
+[C:/Practicas/PracticaTienda/Views/Categorias/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Categorias/Details.cshtml]
+[C:/Practicas/PracticaTienda/Views/Categorias/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Categorias/Edit.cshtml]
+[C:/Practicas/PracticaTienda/Views/Categorias/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Categorias/Index.cshtml]
+[C:/Practicas/PracticaTienda/Views/Categorias/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/DetallePedidos/Create.cshtml]
+[C:/Practicas/PracticaTienda/Views/DetallePedidos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZVBlZGlkb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/DetallePedidos/Delete.cshtml]
+[C:/Practicas/PracticaTienda/Views/DetallePedidos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZVBlZGlkb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/DetallePedidos/Details.cshtml]
+[C:/Practicas/PracticaTienda/Views/DetallePedidos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZVBlZGlkb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/DetallePedidos/Edit.cshtml]
+[C:/Practicas/PracticaTienda/Views/DetallePedidos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZVBlZGlkb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/DetallePedidos/Index.cshtml]
+[C:/Practicas/PracticaTienda/Views/DetallePedidos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZVBlZGlkb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Direcciones/Create.cshtml]
+[C:/Practicas/PracticaTienda/Views/Direcciones/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWNjaW9uZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Direcciones/Delete.cshtml]
+[C:/Practicas/PracticaTienda/Views/Direcciones/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWNjaW9uZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Direcciones/Details.cshtml]
+[C:/Practicas/PracticaTienda/Views/Direcciones/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWNjaW9uZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Direcciones/Edit.cshtml]
+[C:/Practicas/PracticaTienda/Views/Direcciones/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWNjaW9uZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Direcciones/Index.cshtml]
+[C:/Practicas/PracticaTienda/Views/Direcciones/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWNjaW9uZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Home/Index.cshtml]
+[C:/Practicas/PracticaTienda/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Home/Privacy.cshtml]
+[C:/Practicas/PracticaTienda/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Pedidos/Create.cshtml]
+[C:/Practicas/PracticaTienda/Views/Pedidos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Pedidos/Delete.cshtml]
+[C:/Practicas/PracticaTienda/Views/Pedidos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Pedidos/Details.cshtml]
+[C:/Practicas/PracticaTienda/Views/Pedidos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Pedidos/Edit.cshtml]
+[C:/Practicas/PracticaTienda/Views/Pedidos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Pedidos/Index.cshtml]
+[C:/Practicas/PracticaTienda/Views/Pedidos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Productos/Create.cshtml]
+[C:/Practicas/PracticaTienda/Views/Productos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Productos/Delete.cshtml]
+[C:/Practicas/PracticaTienda/Views/Productos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Productos/Details.cshtml]
+[C:/Practicas/PracticaTienda/Views/Productos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Productos/Edit.cshtml]
+[C:/Practicas/PracticaTienda/Views/Productos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Productos/Index.cshtml]
+[C:/Practicas/PracticaTienda/Views/Productos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Roles/Create.cshtml]
+[C:/Practicas/PracticaTienda/Views/Roles/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Roles/Delete.cshtml]
+[C:/Practicas/PracticaTienda/Views/Roles/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Roles/Details.cshtml]
+[C:/Practicas/PracticaTienda/Views/Roles/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Roles/Edit.cshtml]
+[C:/Practicas/PracticaTienda/Views/Roles/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Roles/Index.cshtml]
+[C:/Practicas/PracticaTienda/Views/Roles/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Shared/Error.cshtml]
+[C:/Practicas/PracticaTienda/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Practicas/PracticaTienda/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Usuarios/Create.cshtml]
+[C:/Practicas/PracticaTienda/Views/Usuarios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Usuarios/Delete.cshtml]
+[C:/Practicas/PracticaTienda/Views/Usuarios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Usuarios/Details.cshtml]
+[C:/Practicas/PracticaTienda/Views/Usuarios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Usuarios/Edit.cshtml]
+[C:/Practicas/PracticaTienda/Views/Usuarios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Usuarios/Index.cshtml]
+[C:/Practicas/PracticaTienda/Views/Usuarios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/_ViewImports.cshtml]
+[C:/Practicas/PracticaTienda/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/_ViewStart.cshtml]
+[C:/Practicas/PracticaTienda/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Practica MVC/PracticaTienda/Views/Shared/_Layout.cshtml]
+[C:/Practicas/PracticaTienda/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-pbmwsv64j8
