@@ -32,12 +32,19 @@ namespace PracticaTienda.Controllers
 
             var pedido = await _context.Pedidos
                 .Include(p => p.Usuario)
+                .Include(p => p.DetallesPedido)
+                    .ThenInclude(dp => dp.Producto)
                 .FirstOrDefaultAsync(m => m.PedidoId == id);
+
             if (pedido == null)
             {
                 return NotFound();
             }
 
+            pedido.Direccion =  await _context.Direcciones
+            .FirstOrDefaultAsync(d=>d.DireccionId == pedido.DireccionIdSeleccionada)
+             ?? new Direccion();
+            
             return View(pedido);
         }
 
